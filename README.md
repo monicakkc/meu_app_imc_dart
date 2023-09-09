@@ -1,2 +1,16 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# 💎 Repo for practicing Dart 💎
+
+
+👀  I'm here to improve my skills ...
+
+
+### 🌱 I’m currently learning in this repo:
+- Dart
+
+
+
+### 💞️ These are some funcions that I've done here:
+
+- Simple IMC Calculator
+
+
